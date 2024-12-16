@@ -5,9 +5,6 @@ const nextConfig = {
       {
         hostname: "images.pexels.com",
       },
-      {
-        hostname: "www.pexels.com", // Added this line
-      },
     ],
   },
 };
